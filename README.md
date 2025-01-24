@@ -1,4 +1,4 @@
-## Hi, I'm Alvajoy👋🏿🦆
+# Hi, I'm Alvajoy👋🏿🦆
 
 <img src="https://github.com/AlvajoyAsante/AlvajoyAsante/blob/main/images/banner.png" alt="Banner that says Alvajoy Asante - software engineer and content creator alongside a cartoon illustration of Alvajoy and a huge rubber ducky by his side.">
 
