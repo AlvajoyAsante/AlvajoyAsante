@@ -6,6 +6,7 @@ As an aspiring software developer, genuinely committed to creating inclusive lea
 
 ## Find me around the web 🌎: <a href="https://ko-fi.com/alvajoyasante#"><img align="right" width="150" height="150" src="https://github.com/AlvajoyAsante/AlvajoyAsante/blob/main/images/duck.png"></a>
 
+- Growing & Work togther on <a href="https://www.alvajoyasante.com">alvajoyasante.com</a> 🫱🏿‍🫲🏿💫
 - Learning in public on <a href="https://www.youtube.com/@alvajoyasante">Youtube</a> 📹 
 - Sharing updates on <a href="https://www.linkedin.com/in/alvajoy-asante/">LinkedIn</a> 💼
-- Let's grow & work togther <a href="https://www.alvajoyasante.com">alvajoyasante.com</a> 🫱🏿‍🫲🏿
+
